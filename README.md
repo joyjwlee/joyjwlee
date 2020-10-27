@@ -1,5 +1,9 @@
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=round-square&logo=facebook&logoColor=white&link=https://www.facebook.com/joyjwlee)](https://www.facebook.com/joyjwlee)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=round-square&logo=instagram&logoColor=white&link=https://www.instagram.com/j1._.lee/)](https://www.instagram.com/j1._.lee/)
+<a href="https://www.facebook.com/joyjwlee" target="_blank"><img align="right" alt="Jaewon's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/facebook.svg"/></a>
+<a href="https://www.youtube.com/channel/UCLCxmG9kLHRuSRHP4G5XMqw" target="_blank"><img align="right" alt="Jaewon's YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/youtube.svg"/></a>
+<a href="https://www.instagram.com/jaewon._.lee" target="_blank"><img align="right" alt="Jaewon's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/></a>
+<a href="https://www.linkedin.com/in/joyjwlee/" target="_blank"><img align="right" alt="Jaewon's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/linkedin.svg"/></a>
+
+## Hey there! 👋 I'm Jaewon!
 
 <img src = "https://media.giphy.com/media/Ss6tQmy1rLJ0RNNP4V/giphy.gif">
 
